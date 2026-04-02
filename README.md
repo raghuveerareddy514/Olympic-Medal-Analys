@@ -145,7 +145,7 @@ The project was developed and executed using **Google Colab**, leveraging Python
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 * Ch. Raghu Veera Reddy
 * J. Venkata Sai
